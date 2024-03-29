@@ -1,0 +1,2 @@
+../Core/Src/string_func.c:4:5:strtoint	24	static
+../Core/Src/string_func.c:12:6:slice	32	static
